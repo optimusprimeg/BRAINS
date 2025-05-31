@@ -1,5 +1,6 @@
 # BRAINS
-This repository serves as the central hub for the Bayesian Ranking and Analysis of Investment Strategies summer project under mentorship at Stamatics IITK. The project explores the use of Bayesian methods in finance and algorithmic trading. 
+This repository serves as the central hub for the Bayesian Ranking and Analysis of Investment Strategies summer project under mentorship at Stamatics IITK. The project explores the use of Bayesian methods in finance and algorithmic trading.
+
 📈 Week 1: Python & Trading Foundations
 In Week 1, we laid the groundwork for algorithmic trading by covering Python fundamentals, stock market basics, candlestick charting, and basic probability concepts. Students also implemented their first trading strategy using Python.
 
