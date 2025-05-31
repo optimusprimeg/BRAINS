@@ -3,18 +3,7 @@ This repository serves as the central hub for the Bayesian Ranking and Analysis 
 📈 Week 1: Python & Trading Foundations
 In Week 1, we laid the groundwork for algorithmic trading by covering Python fundamentals, stock market basics, candlestick charting, and basic probability concepts. Students also implemented their first trading strategy using Python.
 
-📝 Submission Highlights:
-Fetched 1-year NSE stock data using yfinance
-
-Plotted interactive candlestick charts with annotated market patterns
-
-Calculated and compared simple vs log returns
-
-Computed rolling 14-day volatility and visualized it alongside price
-
-Applied binomial probability to real market data to explore the probability paradox
-
-Calculated expected value from a risk/reward scenario and supported it with simulations
+📝 Resources Highlights: https://www.notion.so/BRAINS_MENTEES-1fb06a7d803b80aeab86e88d03a36e58
 
 📂 All tasks were submitted in a clean, well-documented Jupyter/Colab notebook with embedded plots and markdown explanations.
 
